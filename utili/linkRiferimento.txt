@@ -1,2 +1,0 @@
-https://github.com/yoursunny/esp32cam.git
-https://lastminuteengineers.com/getting-started-with-esp32-cam/
